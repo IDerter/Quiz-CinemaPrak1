@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: ChooseScreen Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: ChooseScreen
+  m_TableCollectionNameGuidString: 745d6f53d6dd5d645b4d6bb0a7223789
+  m_Entries:
+  - m_Id: 216282009505792
+    m_Key: Profile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 216390658756608
+    m_Key: Mode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 216430039076864
+    m_Key: Rating
+    m_Metadata:
+      m_Items: []
+  - m_Id: 216473353654272
+    m_Key: Shop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45146128953696256
+    m_Key: Movies
+    m_Metadata:
+      m_Items: []
+  - m_Id: 214552903280013312
+    m_Key: New Entry
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 2507053743720103994
+  references:
+    version: 2
+    RefIds:
+    - rid: 2507053743720103994
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1717522636778

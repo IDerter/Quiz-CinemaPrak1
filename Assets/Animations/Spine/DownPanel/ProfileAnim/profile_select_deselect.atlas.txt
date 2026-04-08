@@ -1,0 +1,7 @@
+profile_select_deselect.png
+size:152,161
+filter:Linear,Linear
+pma:true
+profile_icon
+bounds:2,2,148,157
+offsets:1,1,150,159

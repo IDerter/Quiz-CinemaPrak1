@@ -1,0 +1,3 @@
+﻿Build path: C:/Users/Danila/Documents/GitHub/Quiz-Cinema/Quiz-Cinema/YandexBuild/Build9
+Build number: 130
+PluginYG version: 2.008

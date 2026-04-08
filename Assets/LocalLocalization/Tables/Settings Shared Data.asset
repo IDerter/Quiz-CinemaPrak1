@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Settings Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Settings
+  m_TableCollectionNameGuidString: cf9193e779e27ef45a4e63ec9df73f48
+  m_Entries:
+  - m_Id: 8847429632
+    m_Key: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 201361788928
+    m_Key: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 264465092608
+    m_Key: Eng
+    m_Metadata:
+      m_Items: []
+  - m_Id: 330617655296
+    m_Key: Rus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 441422778368
+    m_Key: Support
+    m_Metadata:
+      m_Items: []
+  - m_Id: 280908332077056
+    m_Key: ExitQuiz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 206550227940794368
+    m_Key: Error
+    m_Metadata:
+      m_Items: []
+  - m_Id: 206550367221047296
+    m_Key: ErrorMessage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 218345771684061184
+    m_Key: Exit Level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 224230960517394432
+    m_Key: ErrorMapLoading
+    m_Metadata:
+      m_Items: []
+  - m_Id: 224232139578191872
+    m_Key: Ok
+    m_Metadata:
+      m_Items: []
+  - m_Id: 225236407678918656
+    m_Key: Congratulations
+    m_Metadata:
+      m_Items: []
+  - m_Id: 225236597752193024
+    m_Key: 'You''ve received your daily bonus!
+
+      + 300'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 225408237316333568
+    m_Key: You're missing 100 coins to play. Wait for your daily reward or play Adventure
+      mode.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 225411769322954752
+    m_Key: Need coins
+    m_Metadata:
+      m_Items: []
+  - m_Id: 236523084810072064
+    m_Key: Records
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 2507053757809819655
+  references:
+    version: 2
+    RefIds:
+    - rid: 2507053757809819655
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1717608573588

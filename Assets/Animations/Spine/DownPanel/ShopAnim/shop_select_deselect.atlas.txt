@@ -1,0 +1,7 @@
+shop_select_deselect.png
+size:150,170
+filter:Linear,Linear
+pma:true
+shop_icon
+bounds:2,2,146,166
+offsets:1,2,148,169

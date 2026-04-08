@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c77d202a1a8ce14faae151a64051f91, type: 3}
+  m_Name: Episode10
+  m_EditorClassIdentifier: 
+  _episodeName: Bar10
+  _levels:
+  - Lvl10_1
+  - Lvl10_2
+  - Lvl10_3
+  - Lvl10_4
+  - Lvl10_5
+  _previewImage: {fileID: 0}
+  _episodeID: 10

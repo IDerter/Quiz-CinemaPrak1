@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c77d202a1a8ce14faae151a64051f91, type: 3}
+  m_Name: Episode5
+  m_EditorClassIdentifier: 
+  _episodeName: Bar5
+  _levels:
+  - Lvl5_1
+  - Lvl5_2
+  - Lvl5_3
+  - Lvl5_4
+  - Lvl5_5
+  _previewImage: {fileID: 0}
+  _episodeID: 5

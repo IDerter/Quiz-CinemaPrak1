@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Adventure Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Adventure
+  m_TableCollectionNameGuidString: 35308815e2add374a9bf59a2816df8de
+  m_Entries:
+  - m_Id: 669155635200
+    m_Key: Levels
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2742411838087168
+    m_Key: 'Play with skins
+
+      with special abilities'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2742596555235328
+    m_Key: 'You have
+
+      30 seconds
+
+      to answer'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2742742777061376
+    m_Key: 'Answer
+
+      the questions'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2742830920359936
+    m_Key: 'Earn coins
+
+      and break records'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2748259385729024
+    m_Key: Matrix
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2748315962695680
+    m_Key: Titanic
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2748392781373440
+    m_Key: Avatar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2748479993536512
+    m_Key: Terminator
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2749396469932032
+    m_Key: How to Play!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3887406603296768
+    m_Key: Play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22781295808471040
+    m_Key: Adventure
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 472280228817010690
+  references:
+    version: 2
+    RefIds:
+    - rid: 472280228817010690
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1768675931631

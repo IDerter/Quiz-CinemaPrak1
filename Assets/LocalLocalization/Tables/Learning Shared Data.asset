@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Learning Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Learning
+  m_TableCollectionNameGuidString: 30979a1cad302a04bb5d348e0a40400a
+  m_Entries:
+  - m_Id: 7420043264
+    m_Key: Welcome
+    m_Metadata:
+      m_Items: []
+  - m_Id: 381799424000
+    m_Key: StartTable
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9653656543232
+    m_Key: Press for now Select
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11680381984768
+    m_Key: No booster
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23491248447488
+    m_Key: Timer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57966611193856
+    m_Key: "MaxScoreLearning\t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1333185455906816
+    m_Key: StarsBar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1333557377425408
+    m_Key: "SecondTable\t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1853473385930752
+    m_Key: PreBSelect
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1863523835895808
+    m_Key: "SkillSkin\t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1864202113572864
+    m_Key: ChangeSkin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2806796226191360
+    m_Key: ClickBooster
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2807986028601344
+    m_Key: ClickCancelBooster
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2824860665700352
+    m_Key: ClickBoosterAgain
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2846014990245888
+    m_Key: GiftBooster
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3869252260257792
+    m_Key: StartPlay
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3871365732294656
+    m_Key: BoosterDesc1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3876744457412608
+    m_Key: ClickBoosterLvl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3877405609746432
+    m_Key: GreatJob
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6410299494424576
+    m_Key: Press Select
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7628562182234112
+    m_Key: ChooseLanguage
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 6709973290177003522
+  references:
+    version: 2
+    RefIds:
+    - rid: 6709973290177003522
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1725719473275

@@ -1,0 +1,29 @@
+Bar2 .png
+size:1819,1516
+filter:Linear,Linear
+pma:true
+Group 3 copy 4
+bounds:1597,238,235,220
+offsets:1,1,237,222
+rotate:90
+Layer 27
+bounds:1044,475,1039,737
+offsets:2,1,1042,882
+rotate:90
+Layer 28
+bounds:2,3,643,708
+offsets:194,0,899,722
+rotate:90
+Layer 29
+bounds:712,506,99,140
+offsets:1,1,101,142
+bodu
+bounds:712,2,471,499
+offsets:2,1,475,502
+rotate:90
+holder
+bounds:1213,99,382,374
+offsets:2,1,386,377
+map_bar2_overlay
+bounds:2,648,1040,866
+offsets:1,1,1042,868

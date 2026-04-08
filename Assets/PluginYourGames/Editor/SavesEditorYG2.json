@@ -1,0 +1,302 @@
+{
+    "stringKeys": [],
+    "stringValues": [],
+    "floatKeys": [],
+    "floatValues": [],
+    "intKeys": [],
+    "intValues": [],
+    "intExample": 5,
+    "strExample": "Hello!",
+    "boolExample": [
+        false,
+        false,
+        false,
+        false
+    ],
+    "idSave": 34,
+    "completionData": [
+        {
+            "_episodeID": 1,
+            "_stars": 2,
+            "_scoreLvl": 60,
+            "_lvlName": "Lvl1_1",
+            "_maxScoreLvl": 60
+        },
+        {
+            "_episodeID": 1,
+            "_stars": 0,
+            "_scoreLvl": 0,
+            "_lvlName": "Lvl1_2",
+            "_maxScoreLvl": 0
+        },
+        {
+            "_episodeID": 1,
+            "_stars": 0,
+            "_scoreLvl": 0,
+            "_lvlName": "Lvl1_3",
+            "_maxScoreLvl": 0
+        },
+        {
+            "_episodeID": 1,
+            "_stars": 0,
+            "_scoreLvl": 0,
+            "_lvlName": "Lvl1_4",
+            "_maxScoreLvl": 0
+        },
+        {
+            "_episodeID": 1,
+            "_stars": 0,
+            "_scoreLvl": 0,
+            "_lvlName": "Lvl1_5",
+            "_maxScoreLvl": 0
+        },
+        {
+            "_episodeID": 2,
+            "_stars": 0,
+            "_scoreLvl": 0,
+            "_lvlName": "Lvl2_1",
+            "_maxScoreLvl": 0
+        },
+        {
+            "_episodeID": 2,
+            "_stars": 0,
+            "_scoreLvl": 0,
+            "_lvlName": "Lvl2_2",
+            "_maxScoreLvl": 0
+        },
+        {
+            "_episodeID": 2,
+            "_stars": 0,
+            "_scoreLvl": 0,
+            "_lvlName": "Lvl2_3",
+            "_maxScoreLvl": 0
+        },
+        {
+            "_episodeID": 2,
+            "_stars": 0,
+            "_scoreLvl": 0,
+            "_lvlName": "Lvl2_4",
+            "_maxScoreLvl": 0
+        },
+        {
+            "_episodeID": 2,
+            "_stars": 0,
+            "_scoreLvl": 0,
+            "_lvlName": "Lvl2_5",
+            "_maxScoreLvl": 0
+        },
+        {
+            "_episodeID": 3,
+            "_stars": 0,
+            "_scoreLvl": 0,
+            "_lvlName": "Lvl3_1",
+            "_maxScoreLvl": 0
+        },
+        {
+            "_episodeID": 3,
+            "_stars": 0,
+            "_scoreLvl": 0,
+            "_lvlName": "Lvl3_2",
+            "_maxScoreLvl": 0
+        },
+        {
+            "_episodeID": 3,
+            "_stars": 0,
+            "_scoreLvl": 0,
+            "_lvlName": "Lvl3_3",
+            "_maxScoreLvl": 0
+        },
+        {
+            "_episodeID": 3,
+            "_stars": 0,
+            "_scoreLvl": 0,
+            "_lvlName": "Lvl3_4",
+            "_maxScoreLvl": 0
+        },
+        {
+            "_episodeID": 3,
+            "_stars": 0,
+            "_scoreLvl": 0,
+            "_lvlName": "Lvl3_5",
+            "_maxScoreLvl": 0
+        },
+        {
+            "_episodeID": 4,
+            "_stars": 0,
+            "_scoreLvl": 0,
+            "_lvlName": "Lvl4_1",
+            "_maxScoreLvl": 0
+        },
+        {
+            "_episodeID": 4,
+            "_stars": 0,
+            "_scoreLvl": 0,
+            "_lvlName": "Lvl4_2",
+            "_maxScoreLvl": 0
+        },
+        {
+            "_episodeID": 4,
+            "_stars": 0,
+            "_scoreLvl": 0,
+            "_lvlName": "Lvl4_3",
+            "_maxScoreLvl": 0
+        },
+        {
+            "_episodeID": 4,
+            "_stars": 0,
+            "_scoreLvl": 0,
+            "_lvlName": "Lvl4_4",
+            "_maxScoreLvl": 0
+        },
+        {
+            "_episodeID": 4,
+            "_stars": 0,
+            "_scoreLvl": 0,
+            "_lvlName": "Lvl4_5",
+            "_maxScoreLvl": 0
+        },
+        {
+            "_episodeID": 5,
+            "_stars": 0,
+            "_scoreLvl": 0,
+            "_lvlName": "Lvl5_1",
+            "_maxScoreLvl": 0
+        },
+        {
+            "_episodeID": 5,
+            "_stars": 0,
+            "_scoreLvl": 0,
+            "_lvlName": "Lvl5_2",
+            "_maxScoreLvl": 0
+        },
+        {
+            "_episodeID": 5,
+            "_stars": 0,
+            "_scoreLvl": 0,
+            "_lvlName": "Lvl5_3",
+            "_maxScoreLvl": 0
+        },
+        {
+            "_episodeID": 5,
+            "_stars": 0,
+            "_scoreLvl": 0,
+            "_lvlName": "Lvl5_4",
+            "_maxScoreLvl": 0
+        },
+        {
+            "_episodeID": 5,
+            "_stars": 0,
+            "_scoreLvl": 0,
+            "_lvlName": "Lvl5_5",
+            "_maxScoreLvl": 0
+        },
+        {
+            "_episodeID": 6,
+            "_stars": 0,
+            "_scoreLvl": 0,
+            "_lvlName": "Lvl6_1",
+            "_maxScoreLvl": 0
+        },
+        {
+            "_episodeID": 6,
+            "_stars": 0,
+            "_scoreLvl": 0,
+            "_lvlName": "Lvl6_2",
+            "_maxScoreLvl": 0
+        },
+        {
+            "_episodeID": 6,
+            "_stars": 0,
+            "_scoreLvl": 0,
+            "_lvlName": "Lvl6_3",
+            "_maxScoreLvl": 0
+        },
+        {
+            "_episodeID": 6,
+            "_stars": 0,
+            "_scoreLvl": 0,
+            "_lvlName": "Lvl6_4",
+            "_maxScoreLvl": 0
+        },
+        {
+            "_episodeID": 6,
+            "_stars": 0,
+            "_scoreLvl": 0,
+            "_lvlName": "Lvl6_5",
+            "_maxScoreLvl": 0
+        },
+        {
+            "_episodeID": 7,
+            "_stars": 0,
+            "_scoreLvl": 0,
+            "_lvlName": "Lvl7_1",
+            "_maxScoreLvl": 0
+        },
+        {
+            "_episodeID": 7,
+            "_stars": 0,
+            "_scoreLvl": 0,
+            "_lvlName": "Lvl7_2",
+            "_maxScoreLvl": 0
+        },
+        {
+            "_episodeID": 7,
+            "_stars": 0,
+            "_scoreLvl": 0,
+            "_lvlName": "Lvl7_3",
+            "_maxScoreLvl": 0
+        },
+        {
+            "_episodeID": 7,
+            "_stars": 0,
+            "_scoreLvl": 0,
+            "_lvlName": "Lvl7_4",
+            "_maxScoreLvl": 0
+        },
+        {
+            "_episodeID": 7,
+            "_stars": 0,
+            "_scoreLvl": 0,
+            "_lvlName": "Lvl7_5",
+            "_maxScoreLvl": 0
+        },
+        {
+            "_episodeID": 8,
+            "_stars": 0,
+            "_scoreLvl": 0,
+            "_lvlName": "Lvl8_1",
+            "_maxScoreLvl": 0
+        }
+    ],
+    "isOpenBar": [
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+    ],
+    "learnSteps": [
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+    ],
+    "totalAdsMoney": 6500,
+    "countLvlFinished": 1,
+    "maxRecordClassic": 6,
+    "lastClassicIndex": 28,
+    "completeLearning": true,
+    "moneySpentClassic": 100,
+    "lastDailyBonusDate": "31.03.2026 12:19:21"
+}

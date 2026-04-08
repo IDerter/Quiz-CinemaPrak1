@@ -1,0 +1,140 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Learning_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 30979a1cad302a04bb5d348e0a40400a, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 7420043264
+    m_Localized: 'Welcome
+
+      to Movie Quizzers!
+
+      This is your map!
+
+      Enter
+      the first bar.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 381799424000
+    m_Localized: 'Every bar has quiz games.
+
+      Tap the table to play.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9653656543232
+    m_Localized: For now tap Select.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11680381984768
+    m_Localized: "You don't have any\nboosters right now. \nTap Play."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23491248447488
+    m_Localized: 'Every question
+
+      has a timer.
+
+      Hurry up!'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57966611193856
+    m_Localized: "To earn coins - \nbeat your best score."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1333185455906816
+    m_Localized: 'Collect 7 stars
+
+      to open the next bar.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1333557377425408
+    m_Localized: Tap second table.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1853473385930752
+    m_Localized: 'Before starting the game,
+
+      you can choose boosters.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1863523835895808
+    m_Localized: "\rDon't forget that \neach skin has an ability.\nExcept the Simple
+      Guy."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1864202113572864
+    m_Localized: "\rYou can change skin\ninside the store\nor in your profile."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2806796226191360
+    m_Localized: 'Tap on the booster
+
+      to take it into the game.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2807986028601344
+    m_Localized: 'To cancel the booster,
+
+      click on it again.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2824860665700352
+    m_Localized: "In the upper left corner\nof the booster, \ndisplayed its amount.\nPress
+      again."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2846014990245888
+    m_Localized: 'Here is your gift!
+
+      Note that each booster has a description.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3869252260257792
+    m_Localized: Press Play!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3871365732294656
+    m_Localized: "\rThe booster is marked with a checkmark\nand you will receive
+      a reward for it at the end."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3876744457412608
+    m_Localized: 'Tap on the booster
+
+      to use it.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3877405609746432
+    m_Localized: 'You''re doing great,
+
+      keep playing!'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6410299494424576
+    m_Localized: Tap Select.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7628562182234112
+    m_Localized: "These are your settings. \nHere you can change\nthe volume and
+      select \nthe game language."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
