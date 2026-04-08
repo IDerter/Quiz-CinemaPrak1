@@ -65,6 +65,8 @@ namespace QuizCinema
 
         public List<int> GetCorrectAnswers()
         {
+            Debug.Log("GetCorrectAnswers");
+            
             List<int> correctAnswers = new List<int>();
             for (int i = 0; i < Answers.Length; i++)
             {
