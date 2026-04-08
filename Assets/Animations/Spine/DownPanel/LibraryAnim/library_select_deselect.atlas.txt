@@ -1,0 +1,7 @@
+library_select_deselect.png
+size:131,195
+filter:Linear,Linear
+pma:true
+Book_Icon
+bounds:2,2,127,191
+offsets:1,1,129,193

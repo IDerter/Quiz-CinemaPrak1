@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &96090960970936812
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 96090960970936786}
+  - component: {fileID: 96090960970936813}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &96090960970936786
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 96090960970936812}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &96090960970936813
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 96090960970936812}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aae0db5f314ac4a4db71c071142ff167, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _dontDestroyOnLoad: 0
+  _sounds:
+  - _typeMixer: 1
+    _name: CorrectSFX
+    _clip: {fileID: 8300000, guid: 16f6a8a8e51e2924387c2f394eb4572b, type: 3}
+    _parameters:
+      _volume: 0.4
+      _pitch: 1
+      _loop: 0
+    _source: {fileID: 0}
+  - _typeMixer: 1
+    _name: IncorrectSFX
+    _clip: {fileID: 8300000, guid: 6282de375cdc7674d82697406b29c3de, type: 3}
+    _parameters:
+      _volume: 0.4
+      _pitch: 1
+      _loop: 0
+    _source: {fileID: 0}
+  - _typeMixer: 1
+    _name: CountdownSFX
+    _clip: {fileID: 8300000, guid: b5fb19f17a947c94dba06dc4ad687324, type: 3}
+    _parameters:
+      _volume: 0.2
+      _pitch: 1
+      _loop: 0
+    _source: {fileID: 0}
+  - _typeMixer: 1
+    _name: ClickSFX
+    _clip: {fileID: 8300000, guid: eb5efa2dfedf2ec4982bc4e4c114229a, type: 3}
+    _parameters:
+      _volume: 0.2
+      _pitch: 1
+      _loop: 0
+    _source: {fileID: 0}
+  - _typeMixer: 0
+    _name: GameMusic
+    _clip: {fileID: 8300000, guid: 809fc68855bcdce4b9bce94b58ad1153, type: 3}
+    _parameters:
+      _volume: 0.4
+      _pitch: 1
+      _loop: 1
+    _source: {fileID: 0}
+  - _typeMixer: 1
+    _name: Swipe
+    _clip: {fileID: 8300000, guid: 3fe987f5310d20b4fa5a45718991f493, type: 3}
+    _parameters:
+      _volume: 0.2
+      _pitch: 1
+      _loop: 0
+    _source: {fileID: 0}
+  - _typeMixer: 1
+    _name: ClickSwipe
+    _clip: {fileID: 8300000, guid: 87d80714106701e45b871c966491295e, type: 3}
+    _parameters:
+      _volume: 0.2
+      _pitch: 1
+      _loop: 0
+    _source: {fileID: 0}
+  - _typeMixer: 1
+    _name: Lock
+    _clip: {fileID: 8300000, guid: 89ad670de86d6c04ab629aa8627fc39d, type: 3}
+    _parameters:
+      _volume: 0.2
+      _pitch: 1
+      _loop: 0
+    _source: {fileID: 0}
+  - _typeMixer: 1
+    _name: Coins
+    _clip: {fileID: 8300000, guid: 85312922c99edda47ba339c14f60d0d4, type: 3}
+    _parameters:
+      _volume: 0.2
+      _pitch: 1
+      _loop: 0
+    _source: {fileID: 0}
+  - _typeMixer: 1
+    _name: CompleteLvl
+    _clip: {fileID: 8300000, guid: 59dbf47e74949a44881d144513b53e56, type: 3}
+    _parameters:
+      _volume: 0.2
+      _pitch: 1
+      _loop: 0
+    _source: {fileID: 0}
+  _sourcePrefabSFX: {fileID: 7569559025098685476, guid: c8eb1ef16fab092438e4614deff8e9f5, type: 3}
+  _sourcePrefabMusic: {fileID: 7569559025098685476, guid: fe92b04ed6220034a91eeca84d76780c, type: 3}
+  _startupTrack: GameMusic

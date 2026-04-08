@@ -1,0 +1,339 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5732681921516635382
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5732681921516635371}
+  - component: {fileID: 5732681921516635380}
+  - component: {fileID: 5732681921516635381}
+  - component: {fileID: 5732681921366584381}
+  - component: {fileID: 8104546772669979310}
+  m_Layer: 0
+  m_Name: MapLevelController
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5732681921516635371
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5732681921516635382}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5732681921516635380
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5732681921516635382}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d87fc695da0d2be4db0133c75580f587, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _dontDestroyOnLoad: 1
+  _episodeForTest: {fileID: 11400000, guid: 97c344234f0594b4cbfcb635ccae5e00, type: 2}
+  _maxScore: 0
+  _allKills: 0
+  _bestTime: 2147483647
+  _timeAnimClick: 0.5
+--- !u!114 &5732681921516635381
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5732681921516635382}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc426d89e05309d43b8fef8730e70dae, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _dontDestroyOnLoad: 0
+  _completionData:
+  - _episodeID: 1
+    _stars: 0
+    _scoreLvl: 0
+    _lvlName: Lvl1_1
+    _maxScoreLvl: 0
+  - _episodeID: 1
+    _stars: 0
+    _scoreLvl: 0
+    _lvlName: Lvl1_1
+    _maxScoreLvl: 0
+  - _episodeID: 1
+    _stars: 0
+    _scoreLvl: 0
+    _lvlName: Lvl1_1
+    _maxScoreLvl: 0
+  - _episodeID: 1
+    _stars: 0
+    _scoreLvl: 0
+    _lvlName: Lvl1_1
+    _maxScoreLvl: 0
+  - _episodeID: 1
+    _stars: 0
+    _scoreLvl: 0
+    _lvlName: Lvl1_1
+    _maxScoreLvl: 0
+  - _episodeID: 1
+    _stars: 0
+    _scoreLvl: 0
+    _lvlName: Lvl1_1
+    _maxScoreLvl: 0
+  - _episodeID: 1
+    _stars: 0
+    _scoreLvl: 0
+    _lvlName: Lvl1_1
+    _maxScoreLvl: 0
+  - _episodeID: 1
+    _stars: 0
+    _scoreLvl: 0
+    _lvlName: Lvl1_1
+    _maxScoreLvl: 0
+  - _episodeID: 1
+    _stars: 0
+    _scoreLvl: 0
+    _lvlName: Lvl1_1
+    _maxScoreLvl: 0
+  - _episodeID: 1
+    _stars: 0
+    _scoreLvl: 0
+    _lvlName: Lvl1_1
+    _maxScoreLvl: 0
+  - _episodeID: 1
+    _stars: 0
+    _scoreLvl: 0
+    _lvlName: Lvl1_1
+    _maxScoreLvl: 0
+  - _episodeID: 1
+    _stars: 0
+    _scoreLvl: 0
+    _lvlName: Lvl1_1
+    _maxScoreLvl: 0
+  - _episodeID: 1
+    _stars: 0
+    _scoreLvl: 0
+    _lvlName: Lvl1_1
+    _maxScoreLvl: 0
+  _completionDataUnity:
+  - _episodeID: 1
+    _stars: 0
+    _scoreLvl: 0
+    _lvlName: Lvl1_1
+    _maxScoreLvl: 0
+  - _episodeID: 1
+    _stars: 0
+    _scoreLvl: 0
+    _lvlName: Lvl1_2
+    _maxScoreLvl: 0
+  - _episodeID: 1
+    _stars: 0
+    _scoreLvl: 0
+    _lvlName: Lvl1_3
+    _maxScoreLvl: 0
+  - _episodeID: 1
+    _stars: 0
+    _scoreLvl: 0
+    _lvlName: Lvl1_4
+    _maxScoreLvl: 0
+  - _episodeID: 1
+    _stars: 0
+    _scoreLvl: 0
+    _lvlName: Lvl1_5
+    _maxScoreLvl: 0
+  - _episodeID: 2
+    _stars: 0
+    _scoreLvl: 0
+    _lvlName: Lvl2_1
+    _maxScoreLvl: 0
+  - _episodeID: 2
+    _stars: 0
+    _scoreLvl: 0
+    _lvlName: Lvl2_2
+    _maxScoreLvl: 0
+  - _episodeID: 2
+    _stars: 0
+    _scoreLvl: 0
+    _lvlName: Lvl2_3
+    _maxScoreLvl: 0
+  - _episodeID: 2
+    _stars: 0
+    _scoreLvl: 0
+    _lvlName: Lvl2_4
+    _maxScoreLvl: 0
+  - _episodeID: 2
+    _stars: 0
+    _scoreLvl: 0
+    _lvlName: Lvl2_5
+    _maxScoreLvl: 0
+  - _episodeID: 3
+    _stars: 0
+    _scoreLvl: 0
+    _lvlName: Lvl3_1
+    _maxScoreLvl: 0
+  - _episodeID: 3
+    _stars: 0
+    _scoreLvl: 0
+    _lvlName: Lvl3_2
+    _maxScoreLvl: 0
+  - _episodeID: 3
+    _stars: 0
+    _scoreLvl: 0
+    _lvlName: Lvl3_3
+    _maxScoreLvl: 0
+  - _episodeID: 3
+    _stars: 0
+    _scoreLvl: 0
+    _lvlName: Lvl3_4
+    _maxScoreLvl: 0
+  - _episodeID: 3
+    _stars: 0
+    _scoreLvl: 0
+    _lvlName: Lvl3_5
+    _maxScoreLvl: 0
+  - _episodeID: 4
+    _stars: 0
+    _scoreLvl: 0
+    _lvlName: Lvl4_1
+    _maxScoreLvl: 0
+  - _episodeID: 4
+    _stars: 0
+    _scoreLvl: 0
+    _lvlName: Lvl4_2
+    _maxScoreLvl: 0
+  _totalStars: 0
+  _totalScoreLvls: 0
+  _moneyShop: 0
+  _skinShop: 0
+  _isOpenBar: 00000000000000000000
+  _completeLearning: 0
+  _learnSteps: 00000000000000000000
+--- !u!114 &5732681921366584381
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5732681921516635382}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2ccc0fa76775094f8005ad9cefa0e61, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _dontDestroyOnLoad: 1
+  _completionDataCinema: []
+--- !u!114 &8104546772669979310
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5732681921516635382}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 099c405205d837046b866e87dc23969e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _dontDestroyOnLoad: 1
+  _moneyForBoosts: 0
+  _save:
+  - boostCorrectAnswerName: 50 on 50
+    countBoost: 0
+    costAllBost: 0
+    countInInventory: 0
+  - boostCorrectAnswerName: 50 percent
+    countBoost: 0
+    costAllBost: 0
+    countInInventory: 0
+  - boostCorrectAnswerName: Add Score
+    countBoost: 0
+    costAllBost: 0
+    countInInventory: 0
+  - boostCorrectAnswerName: Correct Answer
+    countBoost: 0
+    costAllBost: 0
+    countInInventory: 0
+  - boostCorrectAnswerName: Freeze Time
+    countBoost: 0
+    costAllBost: 0
+    countInInventory: 0
+  - boostCorrectAnswerName: Info
+    countBoost: 0
+    costAllBost: 0
+    countInInventory: 0
+  - boostCorrectAnswerName: Stop Time
+    countBoost: 0
+    costAllBost: 0
+    countInInventory: 0
+  - boostCorrectAnswerName: 
+    countBoost: 0
+    costAllBost: 0
+    countInInventory: 0
+  _mainSave:
+  - boostCorrectAnswerName: 50 on 50
+    countBoost: 0
+    costAllBost: 0
+    countInInventory: 0
+  - boostCorrectAnswerName: 50 percent
+    countBoost: 0
+    costAllBost: 0
+    countInInventory: 0
+  - boostCorrectAnswerName: Add Score
+    countBoost: 0
+    costAllBost: 0
+    countInInventory: 0
+  - boostCorrectAnswerName: Correct Answer
+    countBoost: 0
+    costAllBost: 0
+    countInInventory: 0
+  - boostCorrectAnswerName: Freeze Time
+    countBoost: 0
+    costAllBost: 0
+    countInInventory: 0
+  - boostCorrectAnswerName: Info
+    countBoost: 0
+    costAllBost: 0
+    countInInventory: 0
+  - boostCorrectAnswerName: Stop Time
+    countBoost: 0
+    costAllBost: 0
+    countInInventory: 0
+  - boostCorrectAnswerName: 
+    countBoost: 0
+    costAllBost: 0
+    countInInventory: 0
+  - boostCorrectAnswerName: 
+    countBoost: 0
+    costAllBost: 0
+    countInInventory: 0
+  - boostCorrectAnswerName: 
+    countBoost: 0
+    costAllBost: 0
+    countInInventory: 0
+  _saveBoosts:
+    _listBoosts:
+    - 
+    - 
+    - 
+  _mainSaveBoosts:
+    _listBoosts:
+    - 
+    - 
+    - 

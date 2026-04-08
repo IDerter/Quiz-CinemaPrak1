@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Shared
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-Shared
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 22265a8972ffbb64db765a061ab3e8e8
+  m_SerializeEntries:
+  - m_GUID: 05cb23172032b4d43baffd614bdfd81c
+    m_Address: Assets/LocalLocalization/Tables/StringExampleTable Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 096261203d0a32d4892f3103a9d21fa9
+    m_Address: Assets/LocalLocalization/Tables/PanelOpenNextBar Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 13ae44aeb1d9f104ab4451f25975f829
+    m_Address: Assets/LocalLocalization/Tables/DeffaultButtonsAndText Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 22122d846fafc2549a2206e8e2407a95
+    m_Address: Assets/LocalLocalization/Tables/Modes Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 26143e3a9998b404e88dd3c43bca7109
+    m_Address: Assets/LocalLocalization/Tables/ShopUpPanel Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 30979a1cad302a04bb5d348e0a40400a
+    m_Address: Assets/LocalLocalization/Tables/Learning Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 35308815e2add374a9bf59a2816df8de
+    m_Address: Assets/LocalLocalization/Tables/Adventure Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 44a3388b7660fe94695775db3db66487
+    m_Address: Assets/LocalLocalization/Tables/BoosterPanel Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6deabd7dae5172841b23a41ab0d3112b
+    m_Address: Assets/LocalLocalization/Tables/SkinPanel Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 745d6f53d6dd5d645b4d6bb0a7223789
+    m_Address: Assets/LocalLocalization/Tables/ChooseScreen Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cf9193e779e27ef45a4e63ec9df73f48
+    m_Address: Assets/LocalLocalization/Tables/Settings Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f4b9dcc05457411429bb1a7019ff448c
+    m_Address: Assets/LocalLocalization/Tables/Inventory Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fe3ded8f6e691684f98fd650159c76b7
+    m_Address: Assets/LocalLocalization/Tables/InventoryDescription Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 523d588a3f305b64bbf410acf961b391, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: c2b7ef4463c97a2419db8a7b4a77f184, type: 2}
+    - {fileID: 11400000, guid: 444e84a5d29e3eb468b3e5153ab42488, type: 2}

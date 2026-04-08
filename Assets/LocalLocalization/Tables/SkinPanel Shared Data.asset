@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: SkinPanel Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: SkinPanel
+  m_TableCollectionNameGuidString: 6deabd7dae5172841b23a41ab0d3112b
+  m_Entries:
+  - m_Id: 7966625792
+    m_Key: Simple Guy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 180100861952
+    m_Key: Wizard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 241207676928
+    m_Key: Thief
+    m_Metadata:
+      m_Items: []
+  - m_Id: 272811757568
+    m_Key: Banker
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4583775574495232
+    m_Key: 'Choose wisely
+
+      Every skin has an unlimited special power'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4587075615133696
+    m_Key: No powers. Just a Simple guy.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4587533511495680
+    m_Key: Can stop timer for 10 sec every question.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4587936449892352
+    m_Key: Every game gets an answer for a random question.  But which one?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4589013446496256
+    m_Key: Gets 1K coins after each game.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7190255368736768
+    m_Key: Put on
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7190317616402432
+    m_Key: Take off
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 1957153917356474370
+  references:
+    version: 2
+    RefIds:
+    - rid: 1957153917356474370
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1720202288390

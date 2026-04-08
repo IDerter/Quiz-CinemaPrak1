@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67be832387141524da804a3ca44fc0dd, type: 3}
+  m_Name: SettingFirstLvls
+  m_EditorClassIdentifier: 
+  _answerPrefab:
+  - {fileID: 2459965496055402301, guid: 2dc05cb920d07b8498405d1012875d0a, type: 3}
+  - {fileID: 2459965496055402301, guid: a0b04e4f5e12765499c8d4f90dc7843f, type: 3}
+  - {fileID: 2459965496055402301, guid: 2dc05cb920d07b8498405d1012875d0a, type: 3}
+  - {fileID: 4884036852138336366, guid: ce4b867774589214795d39566183b8b5, type: 3}
+  _uIElements:
+    _answerContentArea: []
+    _questionInfoTextObject: []
+    _countCorrectAnswer: {fileID: 0}
+    _countCurrentAnswer: {fileID: 0}
+    _cadrCinema: []
+    _resolutionScreenAnimator: {fileID: 0}
+    _resolutionBG: {fileID: 0}
+    _resolutionStateInfoText: {fileID: 0}
+    _resolutionScoreText: {fileID: 0}
+    _scoreFinalLvl: {fileID: 0}
+    _scoreCurrentLvl: {fileID: 0}
+    _highScoreText: {fileID: 0}
+    _finishUIElements: {fileID: 0}
+  _questionInfoTextObject:
+  - {fileID: 3596335827693134244, guid: 2f50e212d786d2940b9ddf104b16741a, type: 3}
+  - {fileID: 5721881255616206726, guid: bb50524d5321fb24b9b42afe9039ab76, type: 3}
+  - {fileID: 6978674080052042004, guid: bec567bcc3b3ae944854a41648b538af, type: 3}
+  - {fileID: 7350383353810188760, guid: 511ad8a68933e3147b4b0aa461efd346, type: 3}

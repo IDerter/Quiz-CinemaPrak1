@@ -1,0 +1,7 @@
+Anima_Overlay_Level_Complete.png
+size:1479,1476
+filter:Linear,Linear
+pma:true
+Shine_overlay
+bounds:2,2,1475,1472
+offsets:107,2,1633,1507

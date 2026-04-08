@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8a5bae90c6c3af489f1563128d9aed6, type: 3}
+  m_Name: Bar3
+  m_EditorClassIdentifier: 
+  _scoreLvlsInBar: c80000002c0100009001000090010000f4010000
+  _maxSumScore: 2500
+  _needSumScore: 1500
+  _needStarsScore: 9

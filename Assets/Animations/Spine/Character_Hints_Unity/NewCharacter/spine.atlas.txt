@@ -1,0 +1,23 @@
+spine.png
+size:1878,486
+filter:Linear,Linear
+pma:true
+Iris
+bounds:152,49,99,23
+offsets:1,1,101,25
+Rec
+bounds:2,74,1186,410
+offsets:1,1,1188,412
+SimpleGuy
+bounds:1190,3,481,686
+offsets:95,41,644,765
+rotate:90
+Smile
+bounds:2,2,148,70
+offsets:1,1,151,73
+l brow
+bounds:152,15,76,32
+offsets:1,1,78,34
+r brow
+bounds:253,36,65,36
+offsets:1,1,67,38
